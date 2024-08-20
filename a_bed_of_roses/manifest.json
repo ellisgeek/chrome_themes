@@ -1,0 +1,40 @@
+{
+   "description": "Theme based on one of my favorite images. Source for image is http://byakurai-tora.deviantart.com/art/Collab-Bed-of-Roses-349764886",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw9QyZnXexNVtV3BlRRjk41rzxsVN2ET0TnsOnobpX3ujqGPLSJ8HFM8xCxnB1AwDpOG0Y5/DqQtTe5bpC9TGC7tiTjWdethQocFF+MPPjg3p6NLf6LOwWC85wcJFC621j5Xj2M8OoLVa+laiW8kcMglhP2SGOPBxHJfvjGUMGPVMmJoClsMnbb646IWnU2VtMeR8kmt5rXtJks8N2NL1npY8BHXJ72TihXOaWKHBAcjwGNXar+FubSirgEOmO99N2aUungVlCJHveBXeZ9tZzRR9nkXgq0TNUebrTUpfDbLrMFV3PjqsEPQnFGn7z0g37csY+2p1ezRsJlSMlkR47QIDAQAB",
+   "manifest_version": 2,
+   "name": "A Bed of Roses",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "frame": [ 255, 255, 255 ],
+         "frame_inactive": [ 255, 255, 255 ],
+         "frame_incognito": [ 255, 255, 255 ],
+         "frame_incognito_inactive": [ 255, 255, 255 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 0, 0, 0 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 255, 255, 255 ]
+      },
+      "icons": {
+         "128": "images/icon128.png",
+         "16": "images/icon16.png",
+         "48": "images/icon48.png"
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_attribution": "images/attrib.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom right",
+         "ntp_background_repeat": "no-repeat",
+         "ntp_logo_alternate": "1"
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0"
+}
